@@ -1,3 +1,6 @@
+# MPU Section of this code has been adapted from https://www.electronicwings.com/raspberry-pi/mpu6050-accelerometergyroscope-interfacing-with-raspberry-pi
+# 
+
 import multiprocessing
 import smbus
 import time
